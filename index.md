@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-title:Welcome to my portfolio!
+Welcome to my portfolio!
+I am 20 years. Currently study at BSU in the Faculty of radiophysics and computer technology!
 
 You can use the [editor on GitHub](https://github.com/julialips/portfolio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
