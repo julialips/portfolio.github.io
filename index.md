@@ -10,7 +10,7 @@ Improving skills in Photoshop and video editing software Sony Vegas Pro 11, Adob
 You can use the [editor on GitHub](https://github.com/julialips/portfolio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Additional information about myself:
-Jne of my favorite hobbies is drawing portraits, landscapes. Read also fiction, do regular sport.
+Оne of my favorite hobbies is drawing portraits, landscapes. Read also fiction, do regular sport.
 Participate in competitions in ski racing.
 Engaged in volunteer work, drawing on different events.
 
