@@ -1,10 +1,10 @@
 ## Welcome to my portfolio!
-#About me:
+# About me:
 My name is Yulia Lipskaya, I am 20 years.
 Was born in the town of Ivie, Grodno region. 
 In the year 2016 entered Belarusian State University,at the Faculty of "Radiophysics and computer technology", specialty "computer security".At the moment, I'm studing on the 3 course. End date: 2020.
 
-#Skills:
+# Skills:
 In free time,actively studying English, watch movies in original ,language lessons on the Internet.
 Improving skills in Photoshop and video editing software Sony Vegas Pro 11, Adobe Audition.
 
