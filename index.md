@@ -1,39 +1,17 @@
-## Welcome to GitHub Pages
-Welcome to my portfolio!
-I am 20 years. Currently study at BSU in the Faculty of radiophysics and computer technology!
+## Welcome to my portfolio!
+
+My name is Yulia Lipskaya, I am 20 years.
+Born in the town of Ivie, Grodno region. 
+In the year 2016 entered BELARUSIAN STATE UNIVERSITY the Faculty of "Radiophysics and computer technology", specialty "computer security" at the moment I'm learning on the 3 course. End date: 2020.
+In free time actively studying English, watch movies in original ,language lessons on the Internet.
+Improving skills in Photoshop and video editing software Sony Vegas Pro 11, Adobe Audition.
+
 
 You can use the [editor on GitHub](https://github.com/julialips/portfolio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Additional information about myself:
+Jne of my favorite hobbies is drawing portraits, landscapes. Read also fiction, do regular sport.
+Participate in competitions in ski racing.
+Engaged in volunteer work, drawing on different events.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julialips/portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Thank you for your attention
